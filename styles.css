@@ -14,7 +14,7 @@ header{
   position:fixed;
   display:flex;
   flex-direction:row;
-  background-color:grey;
+  background-color:whitesmoke;
   width:100%;
   align-items:center;
   justify-content:space-between;
